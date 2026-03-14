@@ -74,6 +74,8 @@
 
 ## Agent Skills 🤖
 
+- [notion-pdf-skill](https://github.com/cathyhang0905/notion-pdf-skill) by [cathyhang0905](https://github.com/cathyhang0905) - Import PDFs into Notion as PPT-style slideshows. Converts each page to an image block via Notion's file upload API. Auto-generates Unsplash cover and DiceBear icon per document. No third-party image hosting required.
+
 > Agent skills are model-controlled configurations (files, scripts, resources, etc.) that enable Claude Code to perform specialized tasks requiring specific knowledge or capabilities.
 
 ### General
